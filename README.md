@@ -1,27 +1,27 @@
-# Xin chào, Tôi là [Qliphort Shell](link_to_linkedin_profile)
+# Hello, I'm [Qliphort Shell](#)
 ### Hi there 👋. I'm Qliphort Shell, and this is a very professional profile
 
 | ![1](https://i.giphy.com/media/MGdfeiKtEiEPS/giphy.webp) | ![2](https://media0.giphy.com/media/WUBvquKnbnXhbQUd8f/giphy.gif?cid=ecf05e47d67685c5a3576e7b7d500e1297fa39551ced9b59&rid=giphy.gif) | ![3](https://media1.giphy.com/media/Y07ur2ElqAvSqVNauQ/giphy.gif) |
 | --- | --- | --- |
 
-Tôi là một Lập trình viên Full Stack với kinh nghiệm và đam mê trong việc phát triển ứng dụng web và di động. Thông thạo trong ReactJS, Node.js, Vue.js, JavaScript, HTML, CSS, và cũng có kinh nghiệm trong Java và React Native. Tôi đặc biệt quan tâm đến việc xây dựng các ứng dụng có hiệu suất cao, tương tác người dùng tốt và giao diện người dùng đẹp mắt.
+I am a Full Stack Developer with experience and passion in web and mobile application development. Fluent in ReactJS, Node.js, Vue.js, JavaScript, HTML, and CSS, and also experienced in Java and React Native. I'm especially interested in building applications with high performance, good user interaction, and beautiful user interfaces.
 
-## Kỹ năng và Kinh nghiệm
+## Skills and Experience
 
-- **ReactJS:** Phát triển ứng dụng web mạnh mẽ và linh hoạt với ReactJS. Sử dụng Redux hoặc Context API để quản lý trạng thái ứng dụng.
-- **Node.js:** Xây dựng các ứng dụng back-end hiệu suất cao với Node.js. Sử dụng Express.js để tạo các API và quản lý các yêu cầu HTTP.
-- **Vue.js:** Có kinh nghiệm trong việc phát triển các ứng dụng web sử dụng Vue.js. Thành thạo trong Vuex để quản lý trạng thái và Vue Router để quản lý định tuyến.
-- **JavaScript/HTML/CSS:** Sử dụng JavaScript, HTML và CSS để xây dựng giao diện người dùng đẹp mắt và tương tác.
-- **Java:** Có kiến thức vững về lập trình Java và phát triển các ứng dụng Java chuyên nghiệp.
-- **React Native:** Xây dựng ứng dụng di động đa nền tảng sử dụng React Native. Tạo giao diện người dùng linh hoạt và hiệu quả trên cả iOS và Android.
+- **ReactJS:** Develop powerful and flexible web applications with ReactJS. Use Redux or Context API to manage the application state.
+- **Node.js:** Build high-performance back-end applications with Node.js. Use Express.js to create APIs and manage HTTP requests.
+- **Vue.js:** Experience in developing web applications using Vue.js. Proficient in Vuex for state management and Vue Router for routing management.
+- **JavaScript/HTML/CSS:** Use JavaScript, HTML, and CSS to build beautiful, interactive user interfaces.
+- **Java:** Have strong knowledge of Java programming and develop professional Java applications.
+- **React Native:** Build cross-platform mobile applications using React Native. Create flexible and efficient user interfaces on both iOS and Android.
 
-## Liên Hệ
+## Contact
 
-Nếu bạn quan tâm đến việc hợp tác hoặc có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ với tôi:
+If you are interested in collaborating or have any questions, don't hesitate to contact me:
 
-- Email: nhoangkiet35@gmail.com
-- LinkedIn: [Qliphort Shel](link_to_linkedin_profile)
+- Email: ngoangkiet35@gmail.com
+- LinkedIn [Qliphort Shel](link_to_linkedin_profile)
 
-## Dự án Tiêu biểu
+## Typical projects
 
-Dĩ nhiên! Dưới đây là một số dự án đầy đủ và chuyên nghiệp cho bạn.
+Of course! Here are some complete and professional projects for you.
