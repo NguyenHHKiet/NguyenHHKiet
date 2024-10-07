@@ -1,6 +1,6 @@
 # Hello, I'm [Shell](https://vue-portfolio-website-eight.vercel.app/)
 
-Hi there 👋. I'm Shell, and this is a very professional profile
+**Hi there 👋. I'm Shell, and this is a very professional profile**
 
 ![image](https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif)
 
